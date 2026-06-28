@@ -63,8 +63,7 @@ The Mobile Sales Dashboard provides a comprehensive view of sales performance ac
 
 If the video is uploaded to GitHub:
 
-[▶ Watch Dashboard Demo](Videos/Mobile%20Sales%20Dashboard%20Demo.mp4)
-
+<img src="Videos/dashboard demo.gif" width="900"/>
 Or, if uploaded to LinkedIn or YouTube, replace the link above with the appropriate URL.
 
 ---
