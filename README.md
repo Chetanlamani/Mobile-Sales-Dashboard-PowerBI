@@ -63,7 +63,7 @@ The Mobile Sales Dashboard provides a comprehensive view of sales performance ac
 
 If the video is uploaded to GitHub:
 
-<img src="https://www.linkedin.com/posts/chetanlamani_powerbi-datavisualization-dashboarddesign-ugcPost-7270777381961789441-effa/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOri_8B9qYxckyvJyMVSEmAUmWxUpZt2aE](https://www.linkedin.com/posts/chetanlamani_powerbi-datavisualization-dashboarddesign-ugcPost-7270777381961789441-effa/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOri_8B9qYxckyvJyMVSEmAUmWxUpZt2aE"/>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7270777381961789441?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 Or, if uploaded to LinkedIn or YouTube, replace the link above with the appropriate URL.
 
 ---
