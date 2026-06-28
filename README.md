@@ -61,10 +61,7 @@ The Mobile Sales Dashboard provides a comprehensive view of sales performance ac
 
 ## 🎥 Dashboard Demo
 
-If the video is uploaded to GitHub:
-
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7270777381961789441?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-Or, if uploaded to LinkedIn or YouTube, replace the link above with the appropriate URL.
 
 ---
 
